@@ -10,6 +10,8 @@ This is a simple extension of Leaflet.Control.Zoom that adds a change localizati
 Be sure to include the *leaflet.viewcenter.js* script somewhere after Leaflet is loaded.
 
     <script src="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.js"></script>
+
+    <link rel="stylesheet" href="leaflet.viecenter.css" />
     <script src="leaflet.viewcenter.js"></script>
 
 
