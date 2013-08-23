@@ -1,7 +1,7 @@
 leaflet.viewcenter
 ==================
 
-This is a simple extension of Leaflet.Control.Zoom that adds a set view localization an zoom button above the zoom in and zoom out controls.
+This is a simple extension of Leaflet.Control.Zoom that adds a change localization and zoom button above the zoom in and zoom out controls.
 
 
 USAGE
