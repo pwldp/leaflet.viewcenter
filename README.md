@@ -19,8 +19,11 @@ Do all your normal Leaflet [initialization stuff](http://leaflet.cloudmade.com/e
     <div id="map"></div>
 
     // init map
-    var map = new L.Map('map', { zoomControl:false });
+    var map = new L.Map('map');
 
+    // init ViewCenter plugin
+    var viewCenter = new L.Control.ViewCenter();
+    map.addControl(viewCenter);
 
 
 ## NOTES
