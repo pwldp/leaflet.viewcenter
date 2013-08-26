@@ -4,6 +4,9 @@
 This is a simple extension of Leaflet.Control.Zoom that adds a change localization and zoom button above the zoom in and zoom out controls.
 
 
+Checkout the [demo](http://pwldp.github.io/leaflet.viewcenter/).
+
+
 ## USAGE
 
 
