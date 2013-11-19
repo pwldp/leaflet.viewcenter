@@ -35,3 +35,7 @@ Do all your normal Leaflet [initialization stuff](http://leaflet.cloudmade.com/e
 
 
 This extension was built and tested for Leaflet version 0.6.4.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/pwldp/leaflet.viewcenter/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
