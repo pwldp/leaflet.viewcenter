@@ -1,3 +1,5 @@
+[![endorse](https://api.coderwall.com/pwldp/endorsecount.png)](https://coderwall.com/pwldp)
+
 # leaflet.viewcenter
 
 
